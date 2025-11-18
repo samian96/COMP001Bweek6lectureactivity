@@ -1,0 +1,17 @@
+.col {
+font-family: "Stack Sans Notch", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background-color: rgb(112, 177, 126);
+  border-style: solid;
+  margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Stack Sans Notch", sans-serif;
+    font-optical-sizing: auto;  
+}
+
+
